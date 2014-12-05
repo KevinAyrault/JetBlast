@@ -18,6 +18,7 @@ public class MonApp {
     public static void main(String[] args) {
          Lapin lapin=new Lapin("Roger",20);
         System.out.println("Hello World");
+        System.out.println("Et ta mère");
         while(i <= 10){
             lapin.Crier();
             i++;
