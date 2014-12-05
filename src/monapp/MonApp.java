@@ -7,7 +7,7 @@ package monapp;
 
 /**
  *
- * @author Kévin
+ * @author Valentin
  */
 public class MonApp {
     
@@ -20,6 +20,7 @@ public class MonApp {
         System.out.println("Hello World");
         while(i <= 10){
             lapin.Crier();
+            System.out.println("crier");
             i++;
         }
     }
